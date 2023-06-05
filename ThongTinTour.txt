@@ -1,0 +1,7 @@
+MT2243;Tour Dong Thien Duong;25/08/2023;5;HDV K;Boeing 787;Thien Phu;12500000;Vietcombank
+MT1931;Tour Lang Bac;09/10/2023;6;Hoang Kim;VIETJET AIR;De Nhat ;15000000;Sacombank
+MT1122;Tour Ha Long Bay;20/06/2023;19;Tan My Hanh;Airbus 321;Hoa Hong;49000000;Techcombank
+MT2259;Tour Son Doong;20/01/2023;11;Huynh Cong Hieu;Airbus A350;Thien Ly ;20000000;DongA bank
+MT2605;Tour Thien Duong;26/05/2023;14;Kim Khanh;Boeing 379;Thien Long;24000000;BIDV
+MT7382;Tour Hoi An;21/08/2023;15;Han Mac Tu;ATR 72-500;Hong Anh;45000000;MB Bank
+MT3462;Tour Da Lat;25/11/2023;17;Ly Thai Tong;BAMBOO AIRWAYS;Hoa Mai;42000000;Viettin Bank

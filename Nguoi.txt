@@ -1,0 +1,7 @@
+046204000411;Le Nhat;Hue;03/05/2008;lenhat@gmail.com;085132821;lenhat
+044204009133;Tran Thao My;Ha Noi;01/06/2007;thaomyy@gmail.com;0941872912;thaomy
+044204009111;Pham Ha le;Quang Hai;22/02/2006;hahalol@gmail.com;0886284526;abc111
+044204009278;Cao Viet Hung;Sai Gon;05/02/2002;hunglo@gmail.com;088984281;hunghung1
+044204009222;Pham Kieu Vy;Ba Don;02/09/2001;Kvy2004@gmail.com;0932834281;vyvyk1
+044204009277;Cao Tien Dung;Quang Tri;25/08/1984;dungdtvt@gmail.com;0886284213;dungdz
+044204009274;Bao Chi Hoang;Ba Don;01/03/1974;baochi@gmail.com;0941376222;adf12

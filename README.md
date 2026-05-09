@@ -436,9 +436,9 @@ bool KTDangNhap(const vector<People> person,
 **Cao Tiến Dũng** (Dung Harry)
 
 ### 🏫 Bối Cảnh
-- **Loại Dự Án**: Dự Án Thực Tập Phần Báo Cáo Lần 1 (DTVTPBL1)
+- **Loại Dự Án**: Dự Án Thực Tập Phần PBL (Project-Based Learning - Học tập qua dự án)
 - **Môn Học**: Lập Trình Hướng Đối Tượng (OOP)
-- **Năm Học**: 2024-2025
+- **Năm Học**: 2022-2023
 
 ### 🤝 Liên Hệ
 - 🐙 GitHub: [@caotiendung111](https://github.com/caotiendung111)

@@ -44,3 +44,45 @@
 				 *Giao Dich         : Viettin Bank
 				 Tour Du Lich Dung Nhat CAM ON QUY KHACH.
 
+
+				--- HOA DON TOUR ---
+				Khach Hang : Cao Viet Hung
+				Tour Dat   : Tour Ha Long Bay
+				Gia Ve     : 49000000 VND
+				--------------------
+
+				--- HOA DON TOUR ---
+				Khach Hang : Cao Viet Hung
+				Tour Dat   : tOUR 123
+				Gia Ve     : 1020200120 VND
+				--------------------
+
+				--- HOA DON TOUR ---
+				Khach Hang : Cao Viet Hung
+				Tour Dat   : Tour Da Lat
+				Gia Ve     : 42000000 VND
+				--------------------
+
+				 HOA DON TOUR DU LICH CUA QUY KHACH - CAM ON DA UNG HO.
+
+				 Da Nang, Ngay : 11 / 5 / 2026
+				 Thoi Gian     : 11:58:47 PM
+
+				 *****************************************
+
+				 *Khach hang        : Bao Chi Hoang
+				 *Que Quan          : Ba Don
+				 *So Dien Thoai     : 0941376222
+				 *****************************************
+
+				 *Ma Tour           : MT7382
+				 *Ten Tour          : Tour Hoi An
+				 *Ngay xuat phat    : 21/08/2023
+				 *So Ngay Di        : 15 ngay 
+				 *Huong Dan Vien    : Han Mac Tu
+				 *May Bay           : ATR 72-500
+				 *Khach San         : Hong Anh
+				 *Gia Tien          : 45000000 vnd 
+				 *Giao Dich         : MB Bank
+				 Tour Du Lich BKDN CAM ON QUY KHACH.
+
